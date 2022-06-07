@@ -154,6 +154,11 @@ p{
     line-height: 25px;
 }
 
+/* animaciones para el desafío */
+h1:hover{
+    background-color: aliceblue;
+}
+
 /* ! inician estilos especificos del home*/
 
 /* sección resumen con grid */
